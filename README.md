@@ -24,9 +24,6 @@ Desenvolvimento de uma interface web embarcada em ESP32-S3 para gerenciamento e 
 ### [ValeDouro WEBIA](https://github.com/ProfGandra/ValeDouroWEBIA)
 Universo de fantasia medieval com experiências interativas, narrativa e desenvolvimento de jogos.
 
-### [Race](https://github.com/ProfGandra/Race)
-Jogo de corrida multiplayer em rede local, desenvolvido com foco em simplicidade e acessibilidade.
-
 ### Projetos Educacionais
 Recursos didáticos, experiências com Inteligência Artificial, automação e ferramentas para o ensino tecnológico.
 
